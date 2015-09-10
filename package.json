@@ -1,0 +1,14 @@
+{
+  "name": "sg-sequelize-error-handler",
+  "version": "0.0.1",
+  "description": "sg-sequelize-error-handler for node.js",
+  "keywords": [],
+  "author": "hwaranglee <dev@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/slogup/sg-sequelize-error-handler.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
